@@ -75,6 +75,6 @@ if uploaded_file:
 
 st.markdown("---")
 st.markdown(
-    "🔧 Developed by **Muhammad Ghufran** | 💜 Follow me on [GitHub](https://github.com/hamza49699) & [LinkedIn](https://www.linkedin.com/in/hamza-khan-7472b822b/) "
+    "🔧 Developed by **Muhammad Hamza Javed** | 💜 Follow me on [GitHub](https://github.com/hamza49699) & [LinkedIn](https://www.linkedin.com/in/hamza-khan-7472b822b/) "
 )
 st.markdown("© 2025 PDF ↔ Word Converter. All rights reserved.")
